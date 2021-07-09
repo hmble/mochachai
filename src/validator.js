@@ -1,6 +1,6 @@
 exports.isNumValid = function(num) {
     if (num >= 70){
-        return false
+        return true
     } else if (num <= 10) {
         return false
     } else{
